@@ -1,10 +1,16 @@
 # orey.github.io
 
-[Papers and graph-oriented programming](https://orey.github.io/papers).
+---
+
+In English.
+
+For all information technology related papers and graph-oriented programming materials, follow the link: [Papers and graph-oriented programming](https://orey.github.io/papers).
 
 ---
 
-[OR Editions](https://orey.github.io/oreditions)
+En Français.
+
+Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft : [OR Editions](https://orey.github.io/oreditions)
 
 ---
 
