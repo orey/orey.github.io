@@ -1,6 +1,10 @@
 # orey.github.io
 
-You can browse the [Papers](https://orey.github.io/papers).
+[Papers and graph-oriented programming](https://orey.github.io/papers).
+
+---
+
+[OR Editions](https://orey.github.io/oreditions)
 
 ---
 
