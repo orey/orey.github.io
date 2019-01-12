@@ -14,4 +14,4 @@ Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft : [
 
 ---
 
-(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2017-2018
+(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2017-2019
