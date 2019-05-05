@@ -8,6 +8,10 @@ For all information technology related papers and graph-oriented programming mat
 
 ---
 
+For software tools, please consult [github.com/orey](https://github.com/orey).
+
+---
+
 En Français.
 
 Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft : [OR Editions](https://orey.github.io/oreditions)
