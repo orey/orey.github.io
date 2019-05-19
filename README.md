@@ -24,6 +24,7 @@ GraphApps Turtle grammar in version 1:
   * Permanent link: `https://orey.github.io/graphapps-V1`
   * Key: `<https://orey.github.io/graphapps-V1#>`
   * Read also the [about page](Notice.md)
+  * Github [source](https://github.com/orey/orey.github.io/blob/master/graphapps-V1).
 
 
 ## Littérature
