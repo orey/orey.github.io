@@ -1,16 +1,22 @@
 # orey.github.io
 
----
 
-In English.
+## Papers and graph-oriented programming
 
-For all information technology related papers and graph-oriented programming materials, follow the link: [Papers and graph-oriented programming](https://orey.github.io/papers).
+For all information technology related papers and graph-oriented programming materials, follow the links:
 
----
+  * [Papers and graph-oriented programming](https://orey.github.io/papers).
+  * [Ongoing works on semantic data conversion](https://github.com/orey/graphapps)
 
-For software tools, please consult [github.com/orey](https://github.com/orey).
 
----
+## Software tools
+
+For software tools, please consult:
+
+  * [github.com/orey](https://github.com/orey).
+
+
+## GraphApps Turtle grammar
 
 GraphApps Turtle grammar in version 1:
 
@@ -18,11 +24,15 @@ GraphApps Turtle grammar in version 1:
   * Permanent link: `https://orey.github.io/graphapps-V1`
   * Key: `<https://orey.github.io/graphapps-V1#>`
 
----
+
+## Littérature
 
 En Français.
 
-Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft : [OR Editions](https://orey.github.io/oreditions)
+Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft :
+
+  * [OR Editions](https://orey.github.io/oreditions)
+
 
 ---
 
