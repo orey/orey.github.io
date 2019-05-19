@@ -5,9 +5,9 @@
 The GraphApps grammar was written to address several use cases:
 
   * The constitution of a grammar language for creating RDF triples from CSV files
-    * Link: https://github.com/orey/scv2rdf
+    * Link: [csv2rdf](https://github.com/orey/csv2rdf)
   * The creation of classes and properties to be able to enrich RDF graphs with information making them representable
-    * Link: https://github.com/orey/rdfviz
+    * Link: [rdfviz](https://github.com/orey/rdfviz)
     
 ## Version
 
