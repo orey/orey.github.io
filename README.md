@@ -12,6 +12,14 @@ For software tools, please consult [github.com/orey](https://github.com/orey).
 
 ---
 
+GraphApps Turtle grammar in version 1:
+
+  * [Link](graphapps-V1)
+  * Permanent link: `https://orey.github.io/graphapps-V1`
+  * Key: `<https://orey.github.io/graphapps-V1#>`
+
+---
+
 En Français.
 
 Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft : [OR Editions](https://orey.github.io/oreditions)
