@@ -28,27 +28,27 @@ ga:Separator a rdfs:Datatype ;
 	rdfs:label "Separator" ;
 	rdfs:comment "The separator in semantic grammars" .
 
-ga:Node a rdfs:Class ;
+ga:NodeID a rdfs:Class ;
 	rdfs:isDefinedBy <https://orey.github.io/graphapps-V1#> ;
-	rdfs:label "Node" ;
+	rdfs:label "NodeID" ;
 	rdfs:subClassOf rdfs:Resource ;
 	rdfs:comment "The class of ID-ed Nodes."
 
-ga:Edge a rdfs:Class ;
+ga:EdgeID a rdfs:Class ;
 	rdfs:isDefinedBy <https://orey.github.io/graphapps-V1#> ;
-	rdfs:label "Edge" ;
+	rdfs:label "EdgeID" ;
 	rdfs:subClassOf rdfs:Resource ;
 	rdfs:comment "The class of ID-ed Edges."
 
 ga:source a rdf:Property ;
 	rdfs:isDefinedBy <https://orey.github.io/graphapps-V1#> ;
 	rdfs:label "source" ;
-        rdf:domain ga:Edge ;
-        rdf:range  ga:Node .
+        rdf:domain ga:EdgeID ;
+        rdf:range  ga:NodeID .
 
 ga:target a rdf:Property ;
 	rdfs:isDefinedBy <https://orey.github.io/graphapps-V1#> ;
 	rdfs:label "target" ;
-        rdf:domain ga:Edge ;
-        rdf:range  ga:Node .
+        rdf:domain ga:EdgeID ;
+        rdf:range  ga:NodeID .
 
