@@ -7,6 +7,7 @@ For all information technology related papers and graph-oriented programming mat
 
   * [Papers and graph-oriented programming](https://orey.github.io/papers).
   * [Ongoing works on semantic data conversion](https://github.com/orey/graphapps)
+  * [ReseachGate](https://www.researchgate.net/profile/Olivier_Rey7)
 
 
 ## Software tools
@@ -38,4 +39,4 @@ Pour les éditions OR Editions publiant des PDF originaux soumis au copyleft :
 
 ---
 
-(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2017-2019
+(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2015-2020
