@@ -1,0 +1,23 @@
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix ga: <https://orey.github.io/graphapps-V2#> .
+
+@prefix exs: <https://orey.github.io/sample-schema.ttl#> .
+@prefix exd: <https://orey.github.io/sample-data.ttl#> .
+
+exd:C1 a exs:ClassC .
+
+exd:A1 a exs:ClassA .
+       exs:attribute1 "Sample 1" ;
+       exs:attribute2 exd:C1 .
+
+exd:B1 a exs:ClassB ;
+       exs:attribute1 "Inheritated attribute" .
+
+
+
+
+
+

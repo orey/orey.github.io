@@ -8,8 +8,13 @@
 ## More
 
 * Tools: [github.com/orey](https://github.com/orey)
-* [Root GraphApps ontology](https://orey.github.io/graphapps-V2)
 * [ReseachGate](https://www.researchgate.net/profile/Olivier_Rey7)
+
+## GraphApps ontology
+
+* [Meta level](https://orey.github.io/graphapps-V2): GraphApps ontology
+* [Schema level](https://orey.github.io/sample-schema.ttl) sample
+* [Data level](https://orey.github.io/sample-data.ttl) sample
 
 ## Littérature
 
