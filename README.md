@@ -15,6 +15,7 @@
 * [Meta level](https://orey.github.io/graphapps-V2): GraphApps ontology
 * [Schema level](https://orey.github.io/sample-schema.ttl) sample
 * [Data level](https://orey.github.io/sample-data.ttl) sample
+* [Sparql requests](https://orey.github.io/requests.sparql)
 
 ## Littérature
 
