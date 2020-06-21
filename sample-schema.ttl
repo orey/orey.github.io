@@ -6,17 +6,22 @@
 
 @prefix exs: <https://orey.github.io/sample-schema.ttl#> .
 
-exs:ClassA rdfs:subClassOf ga:Class .
+exs:ClassA a rdfs:Class ;
+           rdfs:subClassOf ga:Class .
 
-exs:ClassB rdfs:subClassOf exs:ClassA .
+exs:ClassB a rdfs:Class ;
+           rdfs:subClassOf exs:ClassA .
 
-exs:ClassC rdfs:subClassOf ga:Class .
+exs:ClassC a rdfs:Class ;
+           rdfs:subClassOf ga:Class .
 
-exs:attribute1 rdfs:subPropertyOf ga:attribute ;
+exs:attribute1 a rdf:Property ;
+               rdfs:subPropertyOf ga:attribute ;
                rdfs:domain exs:ClassA ;
                rdfs:range rdf:langString .
 
-exs:attribute2 rdfs:subPropertyOf ga:attribute ;
+exs:attribute2 a rdf:Property ;
+               rdfs:subPropertyOf ga:link ;
                rdfs:domain exs:ClassA ;
                rdfs:range exs:ClassC .
 
