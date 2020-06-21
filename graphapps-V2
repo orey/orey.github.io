@@ -1,0 +1,50 @@
+#----------------------------------------------------------
+# graphapps-V2
+# Turtle version of the root graphapps gammar
+# Author: O. Rey
+# Creation date: June 2020
+# License: GPL v3
+#----------------------------------------------------------
+
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+
+@prefix ga:   <https://orey.github.io/graphapps-V2#> .
+
+<https://orey.github.io/graphapps-V2#> a owl:Ontology ;
+        dc:title "GraphApps ontology for building semantic applications" ;
+        dc:date "2020-06-21" ;
+        dc:description "This ontology describe the minimal set of constructs required to build applications in the spirit of the GraphApps works." .
+
+ga:Class a rdfs:Class ;
+         rdfs:subClassOf rdfs:Class ;
+         rdfs:isDefinedBy <https://orey.github.io/graphapps-V2#> ;
+         rdfs:label "Class" ;
+         rdfs:comment "Root class of the GraphApps classes." .
+
+ga:attribute a rdf:Property ;
+             rdfs:subPropertyOf rdf:Property ;
+             rdfs:isDefinedBy <https://orey.github.io/graphapps-V2#> ;
+             rdfs:label "attribute" ;
+             rdfs:comment "Root property of final data attributes." ;
+             rdfs:domain ga:Class ;
+             rdfs:range rdfs:Literal .
+
+ga:link a rdf:Property ;
+             rdfs:subPropertyOf rdf:Property ;
+             rdfs:isDefinedBy <https://orey.github.io/graphapps-V2#> ;
+             rdfs:label "link" ;
+             rdfs:comment "Root property of link between ga:Class." ;
+             rdfs:domain ga:Class ;
+             rdfs:range rdfs:Class .
+             
+ga:id a ga:attribute ;
+      rdfs:isDefinedBy <https://orey.github.io/graphapps-V2#> ;
+      rdfs:label "id" ;
+      rdfs:comment "Instance of attribute type to define a unique id for ga:Class instances." ;
+      rdfs:domain ga:Class ;
+      rdfs:range rdfs:Literal .
+
+
