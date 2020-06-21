@@ -9,7 +9,7 @@
 
 exd:C1 a exs:ClassC .
 
-exd:A1 a exs:ClassA .
+exd:A1 a exs:ClassA ;
        exs:attribute1 "Sample 1" ;
        exs:attribute2 exd:C1 .
 
