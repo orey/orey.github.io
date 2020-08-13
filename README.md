@@ -17,6 +17,10 @@
 * [Data level](https://orey.github.io/sample-data.ttl) sample
 * [Sparql requests](https://orey.github.io/requests.sparql)
 
+## Jeu de rôles
+
+* [PremièreFable]( https://orey.github.io/premierefable), un jeu de rôle pour enfants de 8 à 12 ans, créé par Matthew McFarland et traduit de l'américain.
+
 ## Littérature
 
 * [OR Editions](https://orey.github.io/oreditions)
