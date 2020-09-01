@@ -20,6 +20,7 @@
 ## Jeu de rôles
 
 * [PremièreFable]( https://orey.github.io/premierefable), un jeu de rôle pour enfants de 8 à 12 ans, créé par Matthew McFarland et traduit de l'américain.
+* [Cthulhu Dark](https://orey.github.io/cthulhu-dark-fr) version française, un jeu de rôles d'horreur dans les mondes de Lovecraft, créé par Graham Walmsley et traduit de l'américain.
 
 ## Littérature
 
