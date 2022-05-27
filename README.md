@@ -21,7 +21,7 @@
 
 ### Table Top Role Playing Games
 
-* [Enterprise RPG Blog](https://orey.github.io/enterprise-rpg)
+* [Blog](https://orey.github.io/blog)
 
 ## In French
 
