@@ -36,5 +36,5 @@
 
 ---
 
-(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2015-2020
+(C) [O. Rey](https://www.linkedin.com/in/reyolivier/) 2015-2024
 
